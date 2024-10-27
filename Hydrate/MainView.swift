@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  MainView.swift
 //  Hydrate
 //
 //  Created by Maryam Amer Bin Siddique on 24/04/1446 AH.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct MainView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +20,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    MainView()
 }
