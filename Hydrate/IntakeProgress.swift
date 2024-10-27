@@ -94,5 +94,5 @@ struct UseIntakeProgress: View {
 }
 
 #Preview {
-    UseIntakeProgress(waterIntakeGoal: 2.4)
+    UseIntakeProgress(waterIntakeGoal: 2.7)
 }
