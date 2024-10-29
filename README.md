@@ -1,4 +1,4 @@
-# Hydrate
+# Hydrate💧
 
 ## Table of Contents
 - Introduction
