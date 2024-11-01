@@ -8,6 +8,7 @@
 
 ## Introduction
 This project was the second challenge we had at the Apple Developer Academy; where we were provided with high-fidelity prototypes of apps and were expected to develop them from scratch using Swift and SwiftUI. <br>
+<br>
 Hydrate is an intuitive iOS application designed to help users track their daily water intake based on their body weight and personal hydration goals. The application offers a user-friendly interface to record water consumption, set notifications, and visualize progress. It focuses on sending notifications that will consistently remind the user to continue working on their water intake goal. This project showcases two implementations: a traditional structure and an MVVM (Model-View-ViewModel) architecture.
 
 ## Technologies Used
