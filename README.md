@@ -1,7 +1,6 @@
-<img width="1373" alt="Screenshot 1446-05-02 at 10 42 26 AM" src="https://github.com/user-attachments/assets/b4391678-a726-48ec-83a4-054768a92250">
-
-
 # Hydrate
+
+<img width="1373" alt="Screenshot 1446-05-02 at 10 42 26 AM" src="https://github.com/user-attachments/assets/b4391678-a726-48ec-83a4-054768a92250">
 
 ## Table of Contents
 - [Introduction](#introduction)
