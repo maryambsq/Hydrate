@@ -1,12 +1,12 @@
 # Hydrate
 
-<img width="1373" alt="Screenshot 1446-05-02 at 10 42 26 AM" src="https://github.com/user-attachments/assets/b4391678-a726-48ec-83a4-054768a92250">
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies used](#technologies-used)
 - [Features](#features)
 - [Contributing](#contributing)
+
+<img width="1373" alt="Screenshot 1446-05-02 at 10 42 26 AM" src="https://github.com/user-attachments/assets/b4391678-a726-48ec-83a4-054768a92250">
 
 ## Introduction
 This project was the second challenge we had at the Apple Developer Academy; where we were provided with high-fidelity prototypes of apps and were expected to develop them from scratch using Swift and SwiftUI. <br>
